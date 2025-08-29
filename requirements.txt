@@ -1,0 +1,13 @@
+beautifulsoup4
+bs4
+certifi
+charset-normalizer
+chromedriver-autoinstaller
+idna
+packaging
+PyYAML
+requests
+selenium
+soupsieve
+urllib3
+wget
