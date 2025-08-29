@@ -4,12 +4,12 @@ An **infinite** pinterest crawler, crawl image by page.
 
 # Requirements
 * Python 3.7+
-* Selenium, requests, beautifulsoup4, pyyaml
+* PyYAML, selenium, requests, beautifulsoup4
 
 # Installation
 ### 1. Download requirements
 ```
-git clone git@github.com:HgAnh7/Pinterest-infinite-crawler.git
+git clone https://github.com/HgAnh7/Pinterest-infinite-crawler.git
 cd Pinterest-infinite-crawler
 pip install -r requirements.txt
 ```
